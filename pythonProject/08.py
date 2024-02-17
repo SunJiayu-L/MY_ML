@@ -62,7 +62,7 @@ def net(X, w, b):
     return y
 
 
-# 定义损失函数
+# 定义损失函数，平方误差损失函数
 def loss(y_hat, y):
     # print("y_hat_shape:",y_hat.shape,"\ny_shape:",y.shape)
     return (y_hat - y.reshape(y_hat.shape)) ** 2 / 2  # 这里为什么要加 y_hat_shape: torch.Size([10, 1])  y_shape: torch.Size([10])
