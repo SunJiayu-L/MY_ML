@@ -1,62 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ac57c4de-537d-452b-a4d4-3184520bea1d" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/FashionMNIST/raw/t10k-images-idx3-ubyte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/FashionMNIST/raw/t10k-labels-idx1-ubyte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/FashionMNIST/raw/train-images-idx3-ubyte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/FashionMNIST/raw/train-images-idx3-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../data/FashionMNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/FashionMNIST/raw/train-labels-idx1-ubyte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/FashionMNIST/raw/train-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erqi/.idea/erqi.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erqi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erqi/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erqi/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erqi/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/other.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/04-01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/04-02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/06-07.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/08.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/09-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/09.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_W1/6 Feature Engineering and Polynomial Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_W1/7  Linear Regression using Scikit-Learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_W3/10 Logistic Regression, Decision Boundary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_W3/11 Logistic Regression, Logistic Loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_W3/12  Cost Function for Logistic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_W3/13 Gradient Descent for Logistic Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_W3/14 Logistic Regression using Scikit-Learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_W3/8 Classification using Logistic Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_W3/9 Logistic Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_W3/deeplearning.mplstyle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limo/t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../openAI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../openAI/.idea/openAI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../openAI/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/.idea/wu_tf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/C2_W1/Neurons and Layers_Sigmoid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/C2_W1/Neurons and Layers_linar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/C2_W1/Simple Neural Network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/C2_W1/Simple Neural Network_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wu_tf/C2_W2/ReLU Activation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_W1/3 Gradient_Descent_Soln .py" beforeDir="false" afterPath="$PROJECT_DIR$/C1_W1/3 Gradient_Descent_Soln .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_W1/5 Feature ...simplify.py" beforeDir="false" afterPath="$PROJECT_DIR$/C1_W1/5 Feature ...simplify.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_W1/5 Feature scaling and Learning Rate (Multi-variable).py" beforeDir="false" afterPath="$PROJECT_DIR$/C1_W1/5 Feature scaling and Learning Rate (Multi-variable).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_W1/lab_utils_multi.py" beforeDir="false" afterPath="$PROJECT_DIR$/C1_W1/lab_utils_multi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1_W1/lab_utils_uni.py" beforeDir="false" afterPath="$PROJECT_DIR$/C1_W1/lab_utils_uni.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erqi/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../erqi/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erqi/03-svm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../erqi/03-svm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erqi/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../erqi/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erqi/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/../erqi/t.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2cdYO16f9I5bK0vg86v88O24eup" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1 linear regression.executor": "Run",
-    "Python.2 cost function.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.1 linear regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10 Logistic Regression, Decision Boundary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11 Logistic Regression, Logistic Loss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13 Gradient Descent for Logistic Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14 Logistic Regression using Scikit-Learn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2 cost function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3 Gradient_Descent_Soln .executor&quot;: &quot;Run&quot;,
+    &quot;Python.4  Multiple Variable Linear Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4 Multiple complete.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5 Feature ...simplify.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5 Feature scaling and Learning Rate (Multi-variable).executor&quot;: &quot;Run&quot;,
+    &quot;Python.6 Feature Engineering and Polynomial Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7  Linear Regression using Scikit-Learn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8 Classification using Logistic Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9 Logistic Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/My_Python/Wu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\My_Python\Wu\C1_W3" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,6 +135,29 @@
       <option name="presentableId" value="Default" />
       <updated>1708442888065</updated>
       <workItem from="1708442889356" duration="27000" />
+      <workItem from="1708479765265" duration="5384000" />
+      <workItem from="1708522064176" duration="813000" />
+      <workItem from="1708568742762" duration="1513000" />
+      <workItem from="1708603325788" duration="333000" />
+      <workItem from="1708874032013" duration="1223000" />
+      <workItem from="1708953203246" duration="5703000" />
+      <workItem from="1709015971148" duration="723000" />
+      <workItem from="1709017156471" duration="878000" />
+      <workItem from="1709018820499" duration="1391000" />
+      <workItem from="1709168280120" duration="1278000" />
+      <workItem from="1709275671161" duration="38000" />
+      <workItem from="1709298529668" duration="3413000" />
+      <workItem from="1709360246790" duration="2585000" />
+      <workItem from="1709380632694" duration="1188000" />
+      <workItem from="1709436063875" duration="2426000" />
+      <workItem from="1709438941020" duration="212000" />
+      <workItem from="1709439160316" duration="1138000" />
+      <workItem from="1709729981132" duration="768000" />
+      <workItem from="1710052956242" duration="542000" />
+      <workItem from="1710054902468" duration="145000" />
+      <workItem from="1710425319817" duration="1889000" />
+      <workItem from="1710673142430" duration="91000" />
+      <workItem from="1713330198296" duration="13000" />
     </task>
     <servers />
   </component>
@@ -80,7 +165,21 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Wu$1_linear_regression.coverage" NAME="1 linear regression 覆盖结果" MODIFIED="1708442895439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
-    <SUITE FILE_PATH="coverage/Wu$2_cost_function.coverage" NAME="2 cost function 覆盖结果" MODIFIED="1708442908526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
+    <SUITE FILE_PATH="coverage/Wu$1_linear_regression.coverage" NAME="1 linear regression 覆盖结果" MODIFIED="1708483477831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
+    <SUITE FILE_PATH="coverage/Wu$3_Gradient_Descent_Soln_.coverage" NAME="3 Gradient_Descent_Soln  覆盖结果" MODIFIED="1709275676272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
+    <SUITE FILE_PATH="coverage/Wu$9_Logistic_Regression.coverage" NAME="9 Logistic Regression 覆盖结果" MODIFIED="1710055035608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W3" />
+    <SUITE FILE_PATH="coverage/Wu$7__Linear_Regression_using_Scikit_Learn.coverage" NAME="7  Linear Regression using Scikit-Learn 覆盖结果" MODIFIED="1709729989077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
+    <SUITE FILE_PATH="coverage/Wu$2_cost_function.coverage" NAME="2 cost function 覆盖结果" MODIFIED="1708603449965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
+    <SUITE FILE_PATH="coverage/Wu$6_Feature_Engineering_and_Polynomial_Regression.coverage" NAME="6 Feature Engineering and Polynomial Regression 覆盖结果" MODIFIED="1709730019535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
+    <SUITE FILE_PATH="coverage/Wu$8_Classification_using_Logistic_Regression.coverage" NAME="8 Classification using Logistic Regression 覆盖结果" MODIFIED="1710054908976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W3" />
+    <SUITE FILE_PATH="coverage/Wu$t.coverage" NAME="t 覆盖结果" MODIFIED="1708874111707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
+    <SUITE FILE_PATH="coverage/Wu$5_Feature____simplify.coverage" NAME="5 Feature ...simplify 覆盖结果" MODIFIED="1708962206832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
+    <SUITE FILE_PATH="coverage/Wu$13_Gradient_Descent_for_Logistic_Regression.coverage" NAME="13 Gradient Descent for Logistic Regression 覆盖结果" MODIFIED="1709439511508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W3" />
+    <SUITE FILE_PATH="coverage/Wu$11_Logistic_Regression__Logistic_Loss.coverage" NAME="11 Logistic Regression, Logistic Loss 覆盖结果" MODIFIED="1713330203690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W3" />
+    <SUITE FILE_PATH="coverage/Wu$5_Feature_scaling_and_Learning_Rate__Multi_variable_.coverage" NAME="5 Feature scaling and Learning Rate (Multi-variable) 覆盖结果" MODIFIED="1708960878607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
+    <SUITE FILE_PATH="coverage/Wu$4_Multiple_complete.coverage" NAME="4 Multiple complete 覆盖结果" MODIFIED="1709730004289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
+    <SUITE FILE_PATH="coverage/Wu$4__Multiple_Variable_Linear_Regression.coverage" NAME="4  Multiple Variable Linear Regression 覆盖结果" MODIFIED="1709729998230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W1" />
+    <SUITE FILE_PATH="coverage/Wu$10_Logistic_Regression__Decision_Boundary.coverage" NAME="10 Logistic Regression, Decision Boundary 覆盖结果" MODIFIED="1709302388471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W3" />
+    <SUITE FILE_PATH="coverage/Wu$14_Logistic_Regression_using_Scikit_Learn.coverage" NAME="14 Logistic Regression using Scikit-Learn 覆盖结果" MODIFIED="1709439992345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_W3" />
   </component>
 </project>

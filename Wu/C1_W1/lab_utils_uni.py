@@ -358,7 +358,7 @@ def plt_gradients(x_train,y_train, f_compute_cost, f_compute_gradient):
 
     # Print w vs cost to see minimum
     fix_b = 100
-    w_array = np.linspace(-100, 500, 50)
+    #w_array = np.linspace(-100, 500, 50)
     w_array = np.linspace(0, 400, 50)
     cost = np.zeros_like(w_array)
 

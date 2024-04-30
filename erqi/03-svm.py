@@ -26,3 +26,4 @@ print(f"Accuracy: {accuracy}")
 
 # 输出分类报告
 print(classification_report(y_test, y_pred))
+
